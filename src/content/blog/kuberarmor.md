@@ -2,7 +2,7 @@
 title: 'KubeArmor v0.11 Release'
 description: 'Elevating Container Security for Kubernetes Environments'
 pubDate: 'Aug 19 2023'
-heroImage: '/kubearmor.png'
+heroImage: '../../public/kubearmor.png'
 ---
 
 We're thrilled to introduce the latest release of KubeArmor, version v0.11! This significant update reinforces our commitment to providing top-tier container-level security for Kubernetes deployments. With an array of new features, integrations, and improvements, KubeArmor v0.11 empowers you to achieve even greater security and control over your containerized workloads. Let's delve into the key highlights of this release:
