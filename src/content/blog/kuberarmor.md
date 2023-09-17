@@ -1,7 +1,7 @@
 ---
 title: 'KubeArmor v0.11 Release'
 description: 'Elevating Container Security for Kubernetes Environments'
-pubDate: 'Jul 15 2022'
+pubDate: 'Aug 19 2023'
 heroImage: '/kubearmor.png'
 ---
 
