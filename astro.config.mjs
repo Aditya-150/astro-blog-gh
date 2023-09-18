@@ -5,6 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://example.com',
+	site: 'https://aditya-150.github.io',
+	base: '/astro-blog-gh',
 	integrations: [mdx(), sitemap()],
 });
